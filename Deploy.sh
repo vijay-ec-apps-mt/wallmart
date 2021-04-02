@@ -1,4 +1,4 @@
-merging..
+merging
 
 Hello I am in Dev branch..
 
